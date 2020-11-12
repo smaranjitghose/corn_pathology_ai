@@ -10,8 +10,8 @@
 |3| ResNet152 | | | | | 
 |4| VGG-16 | | | | | 
 |5| VGG-19 | | | | | 
-|6| MobileNetV1 |![](./assets/mobilenet_v1/accuracy_curve.png) | ![](./assets/mobilenet_v1/loss_curve.png)|![](./assets/mobilenet_v1/confusion_matrix.png) |![](./assets/mobilenet_v1/ROC.png)| 
-|7| MobileNetV2 |![](./assets/mobilenet_v2/accuracy_curve.png) | ![](./assets/mobilenet_v2/loss_curve.png)|![](./assets/mobilenet_v2/confusion_matrix.png) |![](./assets/mobilenet_v2/ROC.png)| 
+|6| MobileNetV1 |![](./assets/mobilenet_v1/accuracy_curve.png) | ![](./assets/mobilenet_v1/loss_curve.png)|![](./assets/mobilenet_v1/confusion_matrix.png) |![](./assets/mobilenet_v1/roc.png)| 
+|7| MobileNetV2 |![](./assets/mobilenet_v2/accuracy_curve.png) | ![](./assets/mobilenet_v2/loss_curve.png)|![](./assets/mobilenet_v2/confusion_matrix.png) |![](./assets/mobilenet_v2/roc.png)| 
 |8| EfficientNetB0 | | | | | 
 |9| EfficientNetB1 | | | | | 
 |10| EfficientNetB2 | | | | | 
