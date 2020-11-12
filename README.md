@@ -1,4 +1,4 @@
-# Corn Pathology AI
+# Corn🌽 Pathology AI
 
 ## Background:
 
