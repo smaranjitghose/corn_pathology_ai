@@ -1,10 +1,10 @@
 # Corn Pathology AI
 
-#### Background:
+## Background:
 
 
 
-#### Results:
+## Results:
 
 |Sl No| Base Model | Training Accuracy | Validation Accuracy | F-1 Score | Precision | Recall | 
 |-----|------------|-------------------|---------------------|-----------|-----------|--------|
